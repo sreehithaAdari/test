@@ -1,0 +1,6 @@
+{{#user}
+Name: Sreehitha
+Skills: HTML, CSS, JS, MERN stack, SQL
+Email: happysiri003@gmail.com
+{{/user}}
+}
